@@ -1,13 +1,13 @@
 .page {
-  --background: #fafafa;
-  --foreground: #fff;
+  --background: #f6f4f4;
+  --foreground: #ed1704;
 
   --text-primary: #000;
-  --text-secondary: #666;
+  --text-secondary: #b71111;
 
-  --button-primary-hover: #383838;
-  --button-secondary-hover: #f2f2f2;
-  --button-secondary-border: #ebebeb;
+  --button-primary-hover: #cf1818;
+  --button-secondary-hover: #14cf3a;
+  --button-secondary-border: #145bd5;
 
   display: flex;
   flex: 1;
@@ -136,7 +136,7 @@ a.secondary {
     --text-secondary: #999;
 
     --button-primary-hover: #ccc;
-    --button-secondary-hover: #1a1a1a;
-    --button-secondary-border: #1a1a1a;
+    --button-secondary-hover: #f40e0e;
+    --button-secondary-border: #8a0909;
   }
 }
