@@ -37,7 +37,7 @@ export const items = [
     name : "Bike 5",
     blurb: "Love of my Life.",
     Price: "$ 27,000",
-    image: "/bike5.jpg",
+    image: "/bikeyy5.jpg",
     
 
   },
